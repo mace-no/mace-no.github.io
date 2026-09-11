@@ -13,7 +13,7 @@ labels:
 
 ## Completely New
 
-Before ICS 314 I had never used JavaScript before. Now why is this important well TypeScript is a superset of JavaScript, so it is imperative you are proficient in JavaScript. Which I definitely am not, coming from a python/java/C background. However, the basic idea for things like for loops and print statements was helpful when learning the language. 
+Before ICS 314 I had never used JavaScript before. Now why is this important? Well TypeScript is a superset of JavaScript, so it is imperative you are proficient in JavaScript. Which I definitely am not, coming from a python/java/C background. However, the basic idea for things like for loops and print statements was helpful when learning the language. 
 
 ## TYPE script
 
