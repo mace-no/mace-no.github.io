@@ -27,4 +27,8 @@ Next the actual problem. Describe any relevant information about your problem. T
 
 ## What does this look like
 
+Say you have a run into a problem. You think really hard and finally decide to just search it up, and the first result is from a website called Stack Overflow. You have stumbled upon the ultimate software developer cheat sheet. Stack Overflow is the most well known FAQ website, perfect for looking for questions and answers.
 
+Now here's what not to do. [Bad question](https://stackoverflow.com/questions/51201213/please-convert-this-code-to-typescript): the user's question title is literally "Please convert this code to TypeScript". The user provides their code and says that they have tried almost everything but nothing worked, but doesn't specify what they tried. Now would you help someone who wrote 2 sentences, barely showing any effort. And as a software engineer would you ask someone to do the work for you. No, because you don't learn anything.
+
+What about a smarter question. [Smart question](https://stackoverflow.com/questions/51851677/how-to-get-argument-types-from-function-in-typescript): this user wants to return the parameter type of a function. They provide a clear explanation of their goal and current knowledge. They also reference previous similar answers and the TypeScript doc, showing that they are willing to put in the effort and do their own research. 
