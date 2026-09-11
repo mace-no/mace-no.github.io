@@ -31,4 +31,8 @@ Say you have a run into a problem. You think really hard and finally decide to j
 
 Now here's what not to do. [Bad question](https://stackoverflow.com/questions/51201213/please-convert-this-code-to-typescript): the user's question title is literally "Please convert this code to TypeScript". The user provides their code and says that they have tried almost everything but nothing worked, but doesn't specify what they tried. Now would you help someone who wrote 2 sentences, barely showing any effort. And as a software engineer would you ask someone to do the work for you. No, because you don't learn anything.
 
-What about a smarter question. [Smart question](https://stackoverflow.com/questions/51851677/how-to-get-argument-types-from-function-in-typescript): this user wants to return the parameter type of a function. They provide a clear explanation of their goal and current knowledge. They also reference previous similar answers and the TypeScript doc, showing that they are willing to put in the effort and do their own research. 
+What about a smarter question. [Smart question](https://stackoverflow.com/questions/51851677/how-to-get-argument-types-from-function-in-typescript): this user wants to return the parameter type of a function. In their post they provide a clear explanation of their goal and current knowledge of returning types. They also reference similar past answers and the TypeScript doc, showing that they are willing to put in the effort and do their own research.
+
+## What's the point
+
+Well if you truly care about being a software developer than asking smart questions is very important. The whole process involves learning new things. Before you even ask the question you do research to ensure you can provide a good description of your problem. And after you receive an answer you then apply and understand why it may or may not work. You won't gain anything from asking someone else to solve it for you.
