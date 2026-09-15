@@ -2,17 +2,15 @@
   "basics": {
     "name": "Mace Mori",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
+    "picture": "https://github.com/mace-no.png",
     "email": "mmori6@hawaii.edu",
     "phone": "808-796-1800",
     "website": "https://mace-no.github.io",
     "summary": "I am a second year student studying for a B.S. in Computer Science at the University of Hawaii at Manoa. I expect to graduate in Fall, 2028.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "mace-no", "url": "http://github.com/mace-no" },
+      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/mace-mori" }
     ]
   },
   "interests": [
