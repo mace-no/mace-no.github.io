@@ -11,7 +11,7 @@ labels:
 summary: "A basic concept for a math review app I made for my senior capstone project in Highschool"
 ---
 
-<img style="height: 100px; width: 100%; object-fit: cover;" src="../img/homeView.png"> <img style="height: 100px; width: 100%; object-fit: cover;" src="../img/flashCard.png">
+<img style="height: 100px; width: auto;" src="../img/homeView.png"> <img style="height: 100px; width: auto;" src="../img/flashCard.png">
 
 
 Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
