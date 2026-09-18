@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: IMG_6480.jpg
+image: img/IMG_6480.jpg
 title: "Photographer Study"
 date: 2024
 published: true
