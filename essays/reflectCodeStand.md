@@ -10,7 +10,7 @@ labels:
   - Coding Standards
 ---
 
-<img src="https://dbaeumer.gallerycdn.vsassets.io/extensions/dbaeumer/vscode-eslint/3.0.34/1784203161508/Microsoft.VisualStudio.Services.Icons.Default">
+<img width=300px src="https://dbaeumer.gallerycdn.vsassets.io/extensions/dbaeumer/vscode-eslint/3.0.34/1784203161508/Microsoft.VisualStudio.Services.Icons.Default">
 
 ## Coding Standards
 
