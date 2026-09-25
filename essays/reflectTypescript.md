@@ -24,6 +24,7 @@ Well I believe that it does a good job at catching any errors before you run the
 ```
 function printVar(x: number) : string {
   return `The value is ${x}`;
+}
 ```
 Not only does TypeScript tell you the function takes a number as a parameter and returns a string, it enforces those rules by throwing an error if you try to enter in different types.
 

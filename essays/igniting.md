@@ -1,19 +1,25 @@
 ---
 layout: essay
 type: essay
-title: "Igniting the fire"
+title: "Looking foward"
 # All dates must be YYYY-MM-DD format!
-date: 2015-08-26
+date: 2026-09-17
 published: true
 labels:
   - Software Engineering
   - Learning
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
+<img width="300px" class="rounded float-start pe-4" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwDO3hlz5xFhpileyO_-bUGs1YCn99pe-Q6MlULApuSHvhtOC4AThfoHM&s=10">
 
-Ever since I first grasped a paintbrush, I’ve always been eager to learn about design. Design is such a complex concept. For example, when looking at abstract art, its meaning can be completely different for different people. It motivates a person to think thoughtfully and has the potential to submerge them in a sea of imagination. It’s that special relationship between the viewer and the art that makes something as technical as software engineering interesting to me.
+## Software engineering
 
-I never used to think that design and technology went hand in hand.  Thus, learning about software engineering and the role of design has been incredibly interesting to me. Design, implementation, and management are just some of the many things I wish to learn more about. Good art, in a way, makes a person question it. They become joined in the idea of visualization – where captivation meets inspiration.
+At its core software engineering is about designing, building, testing, and maintaining software. This means writing code and making sure the desired output is received. Very basic software engineering uses are sorting a list, calculating a value, and grouping items. As concepts become more advanced paths to game development, website building, cybersecurity, etc open up.
 
-I am now starting to take a Software Engineering class. I hope to learn a lot through the course, but I know it will be just the beginning of my journey. By the time I’m done with it, I hope I’ve learned enough to take the next step in my life as a developer. But until then, my fire will keep on burning.
+# Why software engineering
+
+Well software engineering requires you to think logically and solve problems. As math was my favorite subject growing up, I took a liking to logic and problem solving. But the thing that drew me towards software engineering was the accomplishment that came with writing code and seeing the correct output. As I kid I first encountered coding in my schools robotics club.
+
+# Soft 'where'
+
+Where do I want to go with software engineering in the future? Well I hope to continue my younger selfs passion and learn skills related to robotics and machine learning. My loose goal is to gain experience working on a drone or rover. I am also open to learning more about cybersecurity and data management.
