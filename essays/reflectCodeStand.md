@@ -14,10 +14,12 @@ labels:
 
 ## Coding Standards
 
-The rules you must follow when writing code. It includes things like naming, indentation, error handling, and other coding practices. Following coding standards makes it easier for others to read and edit your programs. It also allows you build good habits within that language. This is important as you begin working with others as a team.
+Coding standards are the rules you must follow when writing code. It includes things like naming, indentation, error handling, and other coding practices. Following coding standards makes it easier for others to read and edit your programs. It also allows you to build good habits with that language. This is important as you begin working with others as a team.
 
-ESLint is a tool that enforces those rules on your JavaScript and TypeScript code. It will flag potential problems and can even suggest a fix. For examples, it can flag an unused variable and suggest the const keyword when a variable isn't later updated.
+ESLint is a tool that applies those rules to your JavaScript and TypeScript code. It will flag potential problems and can even suggest a fix. For examples, it can flag an unused variable and suggest using the const keyword when a variable isn't updated later on.
 
 # My experience
 
-Using ESLint and following Coding standards can definitely help you become more proficient in a language, as you learn what is generally considered right and wrong. However, for me it leans more towards being a nuisance than it is helpful. ESLint is unforgiving for even the smallest standards. It can be a little annoying when my code lights up red for not having a newline at the end, having too many extra lines, or having the wrong number of indentations. 
+Using ESLint and following Coding standards can definitely help you become more proficient in a language, as you learn what is generally considered right and wrong. However, I slightly disagree that it can help you learn a programming language as it oftens tells you what to do. When I was doing E25: Fix Bad TypeScript, I simply fixed what the errors did and had no idea what the actual code was doing. For example, I added spaces where it told me to, changed == to ===, and used dot notation instead of bracket notation. For someone who is still learning, they wouldn't understand what the difference between == and === is, or the different applications for dot/bracket notation.
+
+For me, personally ESLint leans more towards being a nuisance than it is helpful. As it is unforgiving for even the smallest standards. It can be a little annoying when my code lights up red for not having a newline at the end, having too many extra lines, or having the wrong number of indentations. As these are simply styling and shouldn't affect whether or not the code runs. 
