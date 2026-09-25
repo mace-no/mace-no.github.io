@@ -14,10 +14,10 @@ labels:
 
 ## Coding Standards
 
-The rules you must follow when writing code. Ensuring things like naming, indentation, errors, and other coding aspects are correct. Following coding standards makes it easier for others to read and edit programs. It also allows you to built good habits within that language.
+The rules you must follow when writing code. It includes things like naming, indentation, error handling, and other coding practices. Following coding standards makes it easier for others to read and edit your programs. It also allows you build good habits within that language. This is important as you begin working with others as a team.
 
-ESLint is a tool for JavaScript and TypeScript that enforces those rules on your code. Some examples, are flagging an unused variable and suggest the const keyword when a variable isn't later updated.
+ESLint is a tool that enforces those rules on your JavaScript and TypeScript code. It will flag potential problems and can even suggest a fix. For examples, it can flag an unused variable and suggest the const keyword when a variable isn't later updated.
 
 # My experience
 
-Using ESLint and following Coding standards can definitely help you become a better developer. However, for me it leans more towards being a nuisance. ESLint is unforgiving for even the smallest standards. It can be a little annoying when my code lights up red for not having a newline at the end, having too many extra lines, or having the wrong number of indentations.
+Using ESLint and following Coding standards can definitely help you become more proficient in a language, as you learn what is generally considered right and wrong. However, for me it leans more towards being a nuisance than it is helpful. ESLint is unforgiving for even the smallest standards. It can be a little annoying when my code lights up red for not having a newline at the end, having too many extra lines, or having the wrong number of indentations. 
