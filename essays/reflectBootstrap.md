@@ -26,7 +26,7 @@ Learning bootstrap can be as complicated as complicated as a new programming lan
 
 ### Experience 
 
-<img width="80%" height="auto" src="../img/typeRacer.png">
+<img width="80%" height="auto" style="margin-left: auto; margin-right: auto;" src="../img/typeRacer.png">
 
 I used Bootstrap 5 to recreate the TypeRacer website. I was able to see how helpful it is when I don't have to think about each individual element. 
 
