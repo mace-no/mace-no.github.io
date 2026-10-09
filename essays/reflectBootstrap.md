@@ -14,7 +14,7 @@ labels:
 
 # What is Bootstrap 5 
 
-When designing a website, we can use 'Bootstrap 5'. Not actual bootstraps for boots, but a UI framework. A framework? Like working with frames? Not that either. In Software Engineering a framework is a set of predefined features that help developers style and add functionality to their code. And Bootstrap 5 is an example of a UI framework. It implements various tools built in HTML, CSS, and JavaScript that make styling of web user interfaces more efficient. 
+When designing a website, we can use 'Bootstrap 5'. Not actual bootstraps for boots, but a UI framework. A framework? Like working with frames? Not that either. In Software Engineering a framework is a set of predefined features that help developers style and add functionality to their code. And Bootstrap 5 is an example of a UI framework. It implements various tools built in HTML, CSS, and JavaScript that makes the styling of web user interfaces more efficient. 
 
 ## Thoughts on Bootstrap
 
